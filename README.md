@@ -102,7 +102,6 @@ The dashboard includes the following components:
   - Heatmap showing sales patterns across days of the week and hours of the day.
 
 
-
 ## Dashboard
 
 https://github.com/user-attachments/assets/82ddf263-4026-4875-b754-b7196c77e3f6
